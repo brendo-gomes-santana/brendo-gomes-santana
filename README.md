@@ -1,6 +1,8 @@
-# Olá, estou focando em ser dev full Stack.
+# Brendo Gomes Santana – Dev FullStack
+##Um pouco sobre mim
+### Desde cedo, fui atraído pela tecnologia e aos 14 anos, tive meu primeiro contato com programação. Embora incerto sobre meu futuro na época, durante a faculdade, descobri minha paixão por ser um programador fullstack. Começando pelo front-end com HTML, CSS e JavaScript, expandi meus conhecimentos em ReactJS e Sass. Atualmente, estou mergulhado no back-end com Node.js, Express, Sequelize, PostgreSQL e outros. Meu aprendizado nunca para, dedicando pelo menos duas horas aprendidas para aprimorar minhas habilidades.
 
-## Redes Sociais
+# Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brem._.s/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016522992617)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendo-gomes-a90210232/)
