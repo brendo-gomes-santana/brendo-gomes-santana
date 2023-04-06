@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Brendo Gomes Santana <br/>
+    Brendo Gomes Santana <br/> <br/>
     <img alt='gif' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif' style='border-radius:100px'/>
 </h1>
 
