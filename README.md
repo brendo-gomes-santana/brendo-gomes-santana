@@ -38,6 +38,7 @@
         <h3>Back-end</h3>
             <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=nodejs&theme=dark'/></a>
             <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=typescript&theme=dark'/></a>
+            <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=express&theme=dark'/></a>
             <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=prisma&theme=dark'/></a>
             <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=sequelize&theme=dark'/></a>
     </div>
