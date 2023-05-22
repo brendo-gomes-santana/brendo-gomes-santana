@@ -46,5 +46,6 @@
         <h3>Banco de dados</h3>
         <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=mongodb&theme=dark'/></a>
         <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=postgres&theme=dark'/></a>
+        <a href='https://skillicons.dev'><img src='https://skillicons.dev/icons?i=firebase&theme=dark'/></a>
     </div>
 
